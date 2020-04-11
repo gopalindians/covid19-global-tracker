@@ -8,7 +8,7 @@ No installation needed, just open the `index.html` in the browser and that's it.
 
 
 ## Preview
-![Preview image](Screenshot from 2020-04-11 13-16-16.png "Preview image")
+![Preview image](https://raw.githubusercontent.com/gopalindians/covid19-global-tracker/master/Screenshot%20from%202020-04-11%2013-16-16.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
